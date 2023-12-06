@@ -1,0 +1,12 @@
+#picture1{
+    border-radius: 30px;
+    width:150px;
+}
+#camera{
+    width:360px;
+    height:250px;
+    border: grey 1px solid;
+}
+.textbox{
+    width:300px;
+}
